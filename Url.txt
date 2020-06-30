@@ -1,0 +1,3 @@
+https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate/
+https://docs.aws.amazon.com/
+https://chercher.tech/aws-certification/aws-certification-practice-questions#:~:text=A%20mobile%20client%20requires%20data,Options%20are%20%3A&text=Application%20Load%20Balancer
